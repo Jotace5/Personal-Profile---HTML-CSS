@@ -1,0 +1,149 @@
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    font-family: roboto, Arial, Helvetica, sans-serif;
+}
+
+
+.horizontalnav {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    font-size: 20px;
+    border-bottom: 1px solid black;
+}
+.navname {
+    display: inline-flex;
+    justify-content: flex-end;
+    margin-top: 5px;
+}
+.portrait {
+    display: flex;
+    justify-content: flex-start;
+    width: 100px;
+    border-radius: 25px;
+    padding: 5px;
+}
+
+
+.verticalnav {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 5px;
+    
+}
+.navlist {
+    display: flex;
+}
+li {
+    display: inline-flex; 
+    margin-left: 10px;
+    font-weight: 800;
+}
+a:link    {color:#000;}  /* unvisited link  */
+a:visited {color:rgb(57, 36, 179);}  /* visited link    */
+a:hover   {color:rgb(57, 36, 179);}  /* mouse over link */
+a:active  {color:rgb(136, 15, 15);}  /* selected link   */ 
+
+
+
+section {
+    display: block;
+}
+.aboutme{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.aboutme-container {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;    
+}
+.aboutme-text {
+    margin-top: 0;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+.title {
+    display: flex;
+    justify-content: center;
+    background-color: gainsboro;
+    border-radius: 45px;
+}
+.skills {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 25px;
+    padding-top: 10px;
+    
+}
+
+.skills-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;    
+}
+.skill{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    
+}
+.skill-text{
+    text-align: center;
+}
+.certif{
+    font-size: 12px;
+    text-align: center;
+}
+.iconlang {
+    display: inline-flex; 
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.project{
+    margin-top: 25px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+.project-container {
+    margin-top: 5px;   
+}
+.projectLi {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    flex-direction: column;
+}
+.expand{
+    width: 550px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+    border-color:black;
+    border-radius: 25px;
+    padding: 15px;
+}
+.projectdescription{
+    font-size: 12px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.imageproject {
+    width: 300px;
+    flex-shrink: 0;
+    border-radius: 12px;
+}

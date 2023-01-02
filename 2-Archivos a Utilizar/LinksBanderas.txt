@@ -1,0 +1,55 @@
+ESPANOL
+<a href="https://www.flaticon.es/iconos-gratis/espana" title="españa iconos">España iconos creados por GeekClick - Flaticon</a>
+
+INGLES
+<a href="https://www.flaticon.es/iconos-gratis/bandera-del-reino-unido" title="bandera del reino unido iconos">Bandera del reino unido iconos creados por Freepik - Flaticon</a>
+
+CHINO
+<a href="https://www.flaticon.es/iconos-gratis/china" title="china iconos">China iconos creados por Freepik - Flaticon</a>
+
+PORTUGUES
+<a href="https://www.flaticon.es/iconos-gratis/portugal" title="portugal iconos">Portugal iconos creados por Dighital - Flaticon</a>
+
+JAPONES
+<a href="https://www.flaticon.es/iconos-gratis/japon" title="japón iconos">Japón iconos creados por Freepik - Flaticon</a>
+
+ALEMAN
+<a href="https://www.flaticon.es/iconos-gratis/alemania" title="alemania iconos">Alemania iconos creados por Freepik - Flaticon</a>
+
+
+HTML
+<a href="https://www.flaticon.es/iconos-gratis/html-5" title="html 5 iconos">Html 5 iconos creados por Freepik - Flaticon</a>
+
+CSS
+<a href="https://www.flaticon.es/iconos-gratis/css" title="css iconos">Css iconos creados por Freepik - Flaticon</a>
+
+JS
+<a href="https://www.flaticon.es/iconos-gratis/javascript" title="javascript iconos">Javascript iconos creados por Freepik - Flaticon</a>
+
+REACT
+<a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by srip - Flaticon</a>
+
+PHYTON
+<a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>
+
+FACEBOOK
+<a href="https://www.flaticon.es/iconos-gratis/facebook" title="facebook iconos">Facebook iconos creados por Pixel perfect - Flaticon</a>
+
+INSTA
+<a href="https://www.flaticon.es/iconos-gratis/instagram" title="instagram iconos">Instagram iconos creados por Pixel perfect - Flaticon</a>
+
+LINKEDIN
+<a href="https://www.flaticon.es/iconos-gratis/linkedin" title="linkedin iconos">Linkedin iconos creados por riajulislam - Flaticon</a>
+
+TIKTOK
+<a href="https://www.flaticon.es/iconos-gratis/tik-tok" title="tik tok iconos">Tik tok iconos creados por Md Tanvirul Haque - Flaticon</a>
+
+
+MAIL
+<a href="https://www.flaticon.es/iconos-gratis/correo-electronico" title="correo electrónico iconos">Correo electrónico iconos creados por Smashicons - Flaticon</a>
+
+TEL
+<a href="https://www.flaticon.es/iconos-gratis/telefono" title="teléfono iconos">Teléfono iconos creados por Freepik - Flaticon</a>
+
+PERSONA
+<a href="https://www.flaticon.es/iconos-gratis/usuario" title="usuario iconos">Usuario iconos creados por Freepik - Flaticon</a>
